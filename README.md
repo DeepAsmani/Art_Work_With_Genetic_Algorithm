@@ -1,6 +1,19 @@
 # Art_Work_With_Genetic_Algorithm
  Genetic_Algorithm with ploygon using create a  image
 
+Run
+===========
+	python project.py
+
+Requirement 
+===========
+	tkinter
+	PySimpleGUI
+	CV2
+	
+
+
+
 Index
 1.	Introduction	
 2.	Project Objective	
